@@ -2,6 +2,8 @@
 
 Vignette makes it dead simple to run reliable A/b tests in your Rails project.
 
+Repo at https://www.github.com/hayesgm/vignette
+
 ## Examples
 
 Vignette is as simple as sampling from an Array:
